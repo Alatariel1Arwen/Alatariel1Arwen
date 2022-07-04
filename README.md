@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java and also a bit of Salesforce.
 
--:computer: My skills are: Java. SQL. Back-end web development. REST. IntelliJ IDEA. Visual Studio Code. PostMan.
+-:computer: My skills are: Java. SQL. Back-end web development. REST. IntelliJ IDEA. Visual Studio Code. PostMan. 
 
 - 📫 How to reach me : michela.1926.ml@gmail.com -- linkedin.com/in/michela-lettieri-55a323180 -- trailblazer.me/id/mlettieri1 
 
